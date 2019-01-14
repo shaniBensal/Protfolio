@@ -1,0 +1,28 @@
+span{
+    font-style: italic;
+}
+
+.about{
+    display: inline-block;
+    text-align: left;
+}
+
+.about-me{
+    padding: 0px 20px;
+    width:90%;
+}
+
+.about-me img{
+    height:270px;
+    border-radius:20%;
+}
+
+@media(max-width:810px){
+    .about-me{
+        flex-direction: column-reverse;
+    }
+
+    .about-me img{
+        padding-bottom:20px;
+    }
+}

@@ -1,0 +1,19 @@
+.item-preview{
+    width: max-content;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: #ABD1B5;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight:10px; 
+  }
+
+  .title{
+      padding-bottom: 10px;
+  }
+
+.images-list{
+    height: 400px;
+}

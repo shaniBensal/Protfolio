@@ -1,0 +1,26 @@
+.header{
+    height: 80vh;
+    width: 100%;
+    background-image: url('../../assets/images/meGeorgia.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.87;
+}
+
+.quote{
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    text-shadow:
+		-1px -1px 0 black,
+		1px -1px 0 black,
+		-1px 1px 0 black,
+		1px 1px 0 black;
+}
+
+@media (max-width: 550px){
+    .header{
+    background-image: url('../../assets/images/smallHeaderImg.jpg');
+    }
+}

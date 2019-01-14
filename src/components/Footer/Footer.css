@@ -1,0 +1,113 @@
+.contect-me{
+    padding: 20px;
+    height: 550px;
+    font-family: 'Lato';
+    color: white;
+    background-color: #323232;
+}
+
+.input-contact input{
+    background-color: #454545;
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-family: 'Lato';
+    width: 80%;
+    padding: 5px;
+    height: 40px;
+    border: none;
+}
+
+.contect-me button {
+    background-color: #79B791; 
+    border: none;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: #454545;
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    outline: none;
+  }
+
+textarea{
+    background-color: #454545;
+    color: #ffffff;
+    width: 80%;
+    height: 150px;
+    padding: 5px;
+    border: none;
+}
+
+input::placeholder {
+    padding: 5px;
+    text-align: left;
+    color: #bebebe;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+textarea::placeholder {
+    padding: 5px;
+    text-align: left;
+    color: #bebebe;
+    outline: none;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+footer {
+    height: 50px;
+    background-color: #222222;
+}
+
+.submit-btn{
+    width: 90%;
+    justify-content: flex-end;
+}
+
+ul.social-buttons{
+    align-items: center;
+    padding: 0px;
+    padding-top: 10px;
+}
+
+ul.social-buttons li a {
+    font-size: 20px;
+    display: block;
+    padding: 7px;
+    transition: all 0.3s;
+}
+
+/* icons */
+
+.fab{
+    color: #bebebe;
+    height: 15px;
+    text-align: center;
+}
+
+.social-buttons a {
+    border: none;
+    width: 40px;
+    height: 40px;
+    background-color: #e5e5e5;
+    transition: all .3s;
+    margin-right: 20px;
+}
+
+.facebook:hover{
+    background-color:#516fad;
+    cursor: pointer;
+}
+
+.linkedin:hover{
+    background-color: #0077B5;
+    cursor: pointer;
+}
+
+.github:hover{
+    background-color: #222222;
+    color: #bebebe;
+    cursor: pointer;
+}
+

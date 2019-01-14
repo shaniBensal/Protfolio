@@ -1,0 +1,10 @@
+
+navBar (aboutMe, projects,contact me)
+header
+aboutMe
+my Projects
+all tags (html5 Canvas....)
+(gallery of projects)
+contact me!
+
+
