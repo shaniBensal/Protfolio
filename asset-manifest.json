@@ -1,7 +1,7 @@
 {
-  "main.css": "/my-protfolio/static/css/main.04e96cb7.chunk.css",
-  "main.js": "/my-protfolio/static/js/main.0ec59c12.chunk.js",
-  "main.js.map": "/my-protfolio/static/js/main.0ec59c12.chunk.js.map",
+  "main.css": "/my-protfolio/static/css/main.d2a42aab.chunk.css",
+  "main.js": "/my-protfolio/static/js/main.80b31015.chunk.js",
+  "main.js.map": "/my-protfolio/static/js/main.80b31015.chunk.js.map",
   "static/css/1.2e9accca.chunk.css": "/my-protfolio/static/css/1.2e9accca.chunk.css",
   "static/js/1.8496b5be.chunk.js": "/my-protfolio/static/js/1.8496b5be.chunk.js",
   "static/js/1.8496b5be.chunk.js.map": "/my-protfolio/static/js/1.8496b5be.chunk.js.map",
@@ -19,9 +19,9 @@
   "static/media/rentApp.jpg": "/my-protfolio/static/media/rentApp.43742837.jpg",
   "static/media/wikiTube.jpg": "/my-protfolio/static/media/wikiTube.1b04684d.jpg",
   "static/media/Header.css": "/my-protfolio/static/media/meGeorgia.50c32d5f.JPG",
+  "static/css/main.d2a42aab.chunk.css.map": "/my-protfolio/static/css/main.d2a42aab.chunk.css.map",
   "static/css/1.2e9accca.chunk.css.map": "/my-protfolio/static/css/1.2e9accca.chunk.css.map",
-  "static/css/main.04e96cb7.chunk.css.map": "/my-protfolio/static/css/main.04e96cb7.chunk.css.map",
   "index.html": "/my-protfolio/index.html",
-  "precache-manifest.3f78f147b3bbdf44fa950610bc6e0c90.js": "/my-protfolio/precache-manifest.3f78f147b3bbdf44fa950610bc6e0c90.js",
+  "precache-manifest.662a372b3a3237e0e3007dec05696497.js": "/my-protfolio/precache-manifest.662a372b3a3237e0e3007dec05696497.js",
   "service-worker.js": "/my-protfolio/service-worker.js"
 }
