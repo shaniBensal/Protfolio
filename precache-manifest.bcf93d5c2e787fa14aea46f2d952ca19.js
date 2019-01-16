@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/media/Lato-Regular.7f690e50.ttf"
   },
   {
-    "revision": "89e2666c24d37055bcb60e9d2d9f7e35",
-    "url": "/my-protfolio/static/media/Roboto-Thin.89e2666c.ttf"
-  },
-  {
     "revision": "ee7b96fa85d8fdb8c126409326ac2d2b",
     "url": "/my-protfolio/static/media/Roboto-Bold.ee7b96fa.ttf"
+  },
+  {
+    "revision": "89e2666c24d37055bcb60e9d2d9f7e35",
+    "url": "/my-protfolio/static/media/Roboto-Thin.89e2666c.ttf"
   },
   {
     "revision": "77f7a0414a3b717e42045139144dc3b7",
@@ -108,12 +108,12 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/media/fa-solid-900.52b8345b.woff"
   },
   {
-    "revision": "7d43b9ae0b8bb1d0dc425d78dc577b0a",
-    "url": "/my-protfolio/static/media/fa-brands-400.7d43b9ae.eot"
-  },
-  {
     "revision": "50a544b5ad4d512e8db3cdc089823a00",
     "url": "/my-protfolio/static/media/fa-brands-400.50a544b5.ttf"
+  },
+  {
+    "revision": "7d43b9ae0b8bb1d0dc425d78dc577b0a",
+    "url": "/my-protfolio/static/media/fa-brands-400.7d43b9ae.eot"
   },
   {
     "revision": "734248d027cbaac7f03c0d931ec95593",
