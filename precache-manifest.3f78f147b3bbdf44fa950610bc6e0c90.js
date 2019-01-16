@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/media/smallHeaderImg.2c46848f.jpg"
   },
   {
-    "revision": "5a9c0fe94e8efc747ed4",
-    "url": "/my-protfolio/static/css/main.d4fb9adc.chunk.css"
+    "revision": "0ec59c12591c9aa0172e",
+    "url": "/my-protfolio/static/css/main.04e96cb7.chunk.css"
   },
   {
     "revision": "27603739fe78fee587c7b84873475b61",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/media/Lato-Regular.7f690e50.ttf"
   },
   {
-    "revision": "89e2666c24d37055bcb60e9d2d9f7e35",
-    "url": "/my-protfolio/static/media/Roboto-Thin.89e2666c.ttf"
-  },
-  {
     "revision": "ee7b96fa85d8fdb8c126409326ac2d2b",
     "url": "/my-protfolio/static/media/Roboto-Bold.ee7b96fa.ttf"
+  },
+  {
+    "revision": "89e2666c24d37055bcb60e9d2d9f7e35",
+    "url": "/my-protfolio/static/media/Roboto-Thin.89e2666c.ttf"
   },
   {
     "revision": "77f7a0414a3b717e42045139144dc3b7",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/media/wikiTube.1b04684d.jpg"
   },
   {
-    "revision": "5a9c0fe94e8efc747ed4",
-    "url": "/my-protfolio/static/js/main.5a9c0fe9.chunk.js"
+    "revision": "0ec59c12591c9aa0172e",
+    "url": "/my-protfolio/static/js/main.0ec59c12.chunk.js"
   },
   {
     "revision": "50c32d5f28304bb5250c1d82a2839695",
@@ -120,12 +120,12 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/media/fa-regular-400.734248d0.svg"
   },
   {
-    "revision": "1709a2810c3752483683f3f7d287aa89",
-    "url": "/my-protfolio/static/media/fa-solid-900.1709a281.ttf"
-  },
-  {
     "revision": "f72d546abcc27880adf8428792c72519",
     "url": "/my-protfolio/static/media/fa-solid-900.f72d546a.eot"
+  },
+  {
+    "revision": "1709a2810c3752483683f3f7d287aa89",
+    "url": "/my-protfolio/static/media/fa-solid-900.1709a281.ttf"
   },
   {
     "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/my-protfolio/static/css/1.2e9accca.chunk.css"
   },
   {
-    "revision": "6191c600b1591237710f3ffff72fc15a",
+    "revision": "a817119d0ed9450527be63ee9f46b8c6",
     "url": "/my-protfolio/index.html"
   }
 ];
